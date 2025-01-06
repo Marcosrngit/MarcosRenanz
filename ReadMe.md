@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Marcos, tenho 22 anos e sou natural do Brasil. Concluí o ensino médio com o curso técnico de informática, atualmente estou aprofundando meus conhecimentos em um curso Full Stack. Tenho uma grande paixão por tecnologia, especialmente pelo desenvolvimento web, e estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional cada vez mais capacitado.</p>
+<p align="left">Sou Marcos,sou natural do Brasil. Concluí o ensino médio com o curso técnico de informática, atualmente estou aprofundando meus conhecimentos em um curso Full Stack. Tenho uma grande paixão por tecnologia, especialmente pelo desenvolvimento web, e estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional cada vez mais capacitado.</p>
 
 ###
 
